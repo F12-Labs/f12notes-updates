@@ -1,8 +1,8 @@
 {
-  "version": "0.9.3",
-  "date": "2026-11-20",
-  "notes": "Android: automatisches Einfügen wartet auf den Cloud-Stand der anderen Geräte (auch beim Start ohne Netz)",
-  "windows": { "file": "windows/F12Notes.exe", "sha256": "13f83f36f5972fade694de4ec272566cc50ac5be9f0cd2b9e8692c2f12702e48" },
-  "linux": { "file": "linux/f12notes", "sha256": "742c11809d30b43fbe300c856eddb0a4c63a338493a5e32a974ba70086ad32f9" },
-  "android": { "file": "android/F12Notes.apk", "version": "0.9.3", "sha256": "7bcfe4fe7352ff1d95e0c287080d8faf8e2e15ff1945a823bacd20316f8cbd49" }
+  "version": "0.10.0",
+  "date": "2026-11-23",
+  "notes": "Links auf lokale Dateien (file:///), Dateien ins Fenster ziehen fügt Links ein",
+  "windows": { "file": "windows/F12Notes.exe", "sha256": "4b8a1491887193bc46fa48e143c63f9b229ba63e6bc7afe5e8a00af24e4dbdd5" },
+  "linux": { "file": "linux/f12notes", "sha256": "60660b98f2ed8ba50b993f81b57271f1fe5b067287b02766b6f294ad47cf6a5f" },
+  "android": { "file": "android/F12Notes.apk", "version": "0.10.0", "sha256": "ca9d872b3006a12bafa7fc865bf6aec5b300b5c5dbdcb7c2ad6d387f8fc2a42d" }
 }
