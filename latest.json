@@ -1,8 +1,8 @@
 {
-  "version": "0.10.0",
-  "date": "2026-11-23",
-  "notes": "Links auf lokale Dateien (file:///), Dateien ins Fenster ziehen fügt Links ein",
-  "windows": { "file": "windows/F12Notes.exe", "sha256": "4b8a1491887193bc46fa48e143c63f9b229ba63e6bc7afe5e8a00af24e4dbdd5" },
-  "linux": { "file": "linux/f12notes", "sha256": "60660b98f2ed8ba50b993f81b57271f1fe5b067287b02766b6f294ad47cf6a5f" },
+  "version": "0.10.1",
+  "date": "2026-11-24",
+  "notes": "Dateien ins Fenster ziehen: Link mit Dateinamen als Linktext",
+  "windows": { "file": "windows/F12Notes.exe", "sha256": "1cc3cfbd6f4ac0d19cb9eae27f3562864cb14e77a0f9d18d6d031840a2f839f8" },
+  "linux": { "file": "linux/f12notes", "sha256": "35cdb86d392b5cad65eb70f654eeff3ba150413dbbdd80b90240c3d990e8d5c5" },
   "android": { "file": "android/F12Notes.apk", "version": "0.10.0", "sha256": "ca9d872b3006a12bafa7fc865bf6aec5b300b5c5dbdcb7c2ad6d387f8fc2a42d" }
 }
