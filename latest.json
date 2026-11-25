@@ -1,8 +1,8 @@
 {
-  "version": "0.12.0",
+  "version": "0.12.1",
   "date": "2026-11-25",
-  "notes": "Sprachauswahl: Deutsch oder Englisch (F12 → Sprache / Language)",
-  "windows": { "file": "windows/F12Notes.exe", "sha256": "99d53c17ae05417f6d26856f9302df89e9a735c83764c1cef8b9360b783d5dcf" },
-  "linux": { "file": "linux/f12notes", "sha256": "5d206244592b02a44864f102377113cba1dd004ea437d0078313d52d21de9940" },
-  "android": { "file": "android/F12Notes.apk", "version": "0.12.0", "sha256": "dc9d1cff825a6f1aadcd9f481f79eb0bc783501ce82b2e73d77d4dbaa1969dd8" }
+  "notes": "Farbregeln färben auch Checklisten-Einträge",
+  "windows": { "file": "windows/F12Notes.exe", "sha256": "76a71011b26739e3754a374f003bb7247b9124f78078a828477215a34db619b1" },
+  "linux": { "file": "linux/f12notes", "sha256": "4feaf3611f824e429699e04c38d3ee5e25e333f0c9696e089305ef120b19f77d" },
+  "android": { "file": "android/F12Notes.apk", "version": "0.12.1", "sha256": "7b6c5c1f62435daa8f8382fd7f87b1e0aa00b7e1013fc9498867036b4da4bcd0" }
 }
