@@ -1,8 +1,8 @@
 {
-  "version": "0.11.0",
-  "date": "2026-11-24",
-  "notes": "Links zählen in der formatierten Ansicht als ein Zeichen (Cursor, Rücktaste, Entf)",
-  "windows": { "file": "windows/F12Notes.exe", "sha256": "5abb3dd4bf131f49e5d6d4cea9a6b9fcc812e367c83123f3332c6f5cc088b10e" },
-  "linux": { "file": "linux/f12notes", "sha256": "9ef0e2e4487014e6b00749cf346d513f823d0eaf2d031bf7e34a90e7aa9adfcb" },
-  "android": { "file": "android/F12Notes.apk", "version": "0.11.0", "sha256": "5bf47ff407b3fbb7eb10ca719c80e8c6af0e9714cc3bfe9c995f07e0d5892d7d" }
+  "version": "0.11.1",
+  "date": "2026-11-25",
+  "notes": "Eingerückte Blöcke: Einrücken der Überschrift nimmt den ganzen Block mit, eingefügte Zeilen bekommen die Einrückung",
+  "windows": { "file": "windows/F12Notes.exe", "sha256": "d02b8e88044912477da50fcd8c341b1a41662518aff5d01db3572d0736ea6411" },
+  "linux": { "file": "linux/f12notes", "sha256": "7f075c0887a6764d4df81b6db1053fe9803496419bbfa8d4a9489fa90f76003d" },
+  "android": { "file": "android/F12Notes.apk", "version": "0.11.1", "sha256": "e591c81cf00a6f79d76195cd1d252d445fd228c627feba4e58cd1a84ddf2bc01" }
 }
