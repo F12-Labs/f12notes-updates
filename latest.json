@@ -1,8 +1,8 @@
 {
-  "version": "0.11.2",
+  "version": "0.12.0",
   "date": "2026-11-25",
-  "notes": "Fenster merken sich Vollbild und virtuellen Desktop",
-  "windows": { "file": "windows/F12Notes.exe", "sha256": "04eebc62e5de86caff51a8c6652a9581b05381df9d6be2c31b996175b4a1909f" },
-  "linux": { "file": "linux/f12notes", "sha256": "974f762598bfd7f0a60b1aeeaf9cd24e8b813a08ba8e6cf3e01028eb7a1e0c00" },
-  "android": { "file": "android/F12Notes.apk", "version": "0.11.1", "sha256": "e591c81cf00a6f79d76195cd1d252d445fd228c627feba4e58cd1a84ddf2bc01" }
+  "notes": "Sprachauswahl: Deutsch oder Englisch (F12 → Sprache / Language)",
+  "windows": { "file": "windows/F12Notes.exe", "sha256": "99d53c17ae05417f6d26856f9302df89e9a735c83764c1cef8b9360b783d5dcf" },
+  "linux": { "file": "linux/f12notes", "sha256": "5d206244592b02a44864f102377113cba1dd004ea437d0078313d52d21de9940" },
+  "android": { "file": "android/F12Notes.apk", "version": "0.12.0", "sha256": "dc9d1cff825a6f1aadcd9f481f79eb0bc783501ce82b2e73d77d4dbaa1969dd8" }
 }
