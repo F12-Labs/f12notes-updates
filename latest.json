@@ -1,8 +1,8 @@
 {
-  "version": "0.11.1",
+  "version": "0.11.2",
   "date": "2026-11-25",
-  "notes": "Eingerückte Blöcke: Einrücken der Überschrift nimmt den ganzen Block mit, eingefügte Zeilen bekommen die Einrückung",
-  "windows": { "file": "windows/F12Notes.exe", "sha256": "d02b8e88044912477da50fcd8c341b1a41662518aff5d01db3572d0736ea6411" },
-  "linux": { "file": "linux/f12notes", "sha256": "7f075c0887a6764d4df81b6db1053fe9803496419bbfa8d4a9489fa90f76003d" },
+  "notes": "Fenster merken sich Vollbild und virtuellen Desktop",
+  "windows": { "file": "windows/F12Notes.exe", "sha256": "04eebc62e5de86caff51a8c6652a9581b05381df9d6be2c31b996175b4a1909f" },
+  "linux": { "file": "linux/f12notes", "sha256": "974f762598bfd7f0a60b1aeeaf9cd24e8b813a08ba8e6cf3e01028eb7a1e0c00" },
   "android": { "file": "android/F12Notes.apk", "version": "0.11.1", "sha256": "e591c81cf00a6f79d76195cd1d252d445fd228c627feba4e58cd1a84ddf2bc01" }
 }
