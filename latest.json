@@ -1,8 +1,8 @@
 {
-  "version": "0.12.1",
+  "version": "0.12.2",
   "date": "2026-11-25",
-  "notes": "Farbregeln färben auch Checklisten-Einträge",
-  "windows": { "file": "windows/F12Notes.exe", "sha256": "76a71011b26739e3754a374f003bb7247b9124f78078a828477215a34db619b1" },
-  "linux": { "file": "linux/f12notes", "sha256": "4feaf3611f824e429699e04c38d3ee5e25e333f0c9696e089305ef120b19f77d" },
-  "android": { "file": "android/F12Notes.apk", "version": "0.12.1", "sha256": "7b6c5c1f62435daa8f8382fd7f87b1e0aa00b7e1013fc9498867036b4da4bcd0" }
+  "notes": "Update-Adresse auf den neuen Kontonamen F12-Labs umgestellt",
+  "windows": { "file": "windows/F12Notes.exe", "sha256": "ca47a3e00a03c74d077750650b66adf3a4bc99e8939b5e76a1a32bdbe5d8af23" },
+  "linux": { "file": "linux/f12notes", "sha256": "b63786f18e246ef499151022eb04b0bdff379ae9c7d05ebdeb742c324125a8cd" },
+  "android": { "file": "android/F12Notes.apk", "version": "0.12.2", "sha256": "a6ee72373f9d950882f63c27145448cb2603ea0a1b100bc46264c496992b13bb" }
 }
