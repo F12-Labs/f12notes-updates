@@ -1,8 +1,8 @@
 {
-  "version": "0.12.3",
+  "version": "0.12.4",
   "date": "2026-11-27",
-  "notes": "Markdown-Ansicht: Trennlinien verhalten sich wie ein Zeichen – Pfeil links/rechts springt über die Linie, Rücktaste bzw. Entf löscht sie als Ganzes (auch aus der Zeile darunter/darüber)",
-  "windows": { "file": "windows/F12Notes.exe", "sha256": "1d99e8936dc8d62e7e82c50f9d8d791ececb572bf5c9b6f08ee85240a42e8109" },
-  "linux": { "file": "linux/f12notes", "sha256": "9b89004d7dfeb460df03c1d7ef0bde95d27ee2370b2ce72e6922958f44960354" },
-  "android": { "file": "android/F12Notes.apk", "version": "0.12.3", "sha256": "1cf43b7713b3ff32c42516b3278c68af351c72b77da8930b3ef9a5f2e18e26ba" }
+  "notes": "Markdown-Ansicht: Checkbox und Aufzählungspunkt samt Leerzeichen dahinter (\"[ ] \", \"- \") sind für Cursor, Rücktaste und Entf ein Zeichen",
+  "windows": { "file": "windows/F12Notes.exe", "sha256": "369bfc5e0c7c3b134b5df97ddb348e466e9e097469eb3382af2bd132114666d3" },
+  "linux": { "file": "linux/f12notes", "sha256": "8719274ec43e970f31dddfc3bd7acd70c53e2f43a297e8bc3f6297dd0cdb3991" },
+  "android": { "file": "android/F12Notes.apk", "version": "0.12.4", "sha256": "3f22b31e463b71672a42b18aaa42a4ac6bbf95ad03d915c47c082336a27e72ad" }
 }
