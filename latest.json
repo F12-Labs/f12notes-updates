@@ -1,8 +1,8 @@
 {
-  "version": "0.12.2",
-  "date": "2026-11-25",
-  "notes": "Update-Adresse auf den neuen Kontonamen F12-Labs umgestellt",
-  "windows": { "file": "windows/F12Notes.exe", "sha256": "ca47a3e00a03c74d077750650b66adf3a4bc99e8939b5e76a1a32bdbe5d8af23" },
-  "linux": { "file": "linux/f12notes", "sha256": "b63786f18e246ef499151022eb04b0bdff379ae9c7d05ebdeb742c324125a8cd" },
-  "android": { "file": "android/F12Notes.apk", "version": "0.12.2", "sha256": "a6ee72373f9d950882f63c27145448cb2603ea0a1b100bc46264c496992b13bb" }
+  "version": "0.12.3",
+  "date": "2026-11-27",
+  "notes": "Markdown-Ansicht: Trennlinien verhalten sich wie ein Zeichen – Pfeil links/rechts springt über die Linie, Rücktaste bzw. Entf löscht sie als Ganzes (auch aus der Zeile darunter/darüber)",
+  "windows": { "file": "windows/F12Notes.exe", "sha256": "1d99e8936dc8d62e7e82c50f9d8d791ececb572bf5c9b6f08ee85240a42e8109" },
+  "linux": { "file": "linux/f12notes", "sha256": "9b89004d7dfeb460df03c1d7ef0bde95d27ee2370b2ce72e6922958f44960354" },
+  "android": { "file": "android/F12Notes.apk", "version": "0.12.3", "sha256": "1cf43b7713b3ff32c42516b3278c68af351c72b77da8930b3ef9a5f2e18e26ba" }
 }
