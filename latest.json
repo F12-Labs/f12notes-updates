@@ -1,8 +1,8 @@
 {
-  "version": "0.12.4",
+  "version": "0.12.5",
   "date": "2026-11-27",
-  "notes": "Markdown-Ansicht: Checkbox und Aufzählungspunkt samt Leerzeichen dahinter (\"[ ] \", \"- \") sind für Cursor, Rücktaste und Entf ein Zeichen",
-  "windows": { "file": "windows/F12Notes.exe", "sha256": "369bfc5e0c7c3b134b5df97ddb348e466e9e097469eb3382af2bd132114666d3" },
-  "linux": { "file": "linux/f12notes", "sha256": "8719274ec43e970f31dddfc3bd7acd70c53e2f43a297e8bc3f6297dd0cdb3991" },
-  "android": { "file": "android/F12Notes.apk", "version": "0.12.4", "sha256": "3f22b31e463b71672a42b18aaa42a4ac6bbf95ad03d915c47c082336a27e72ad" }
+  "notes": "Markdown-Ansicht: \"===\" ist eine dicke Trennlinie, \"---\" eine dünne; Klick zwischen Checkbox und Leerzeichen nicht mehr möglich",
+  "windows": { "file": "windows/F12Notes.exe", "sha256": "49af5c9016d157d4beabae95fa4ab810a5d854ebec7a8dd64f293fcdbe5c2f1e" },
+  "linux": { "file": "linux/f12notes", "sha256": "4f3aea26444d68c9dc994df86617496701e861c526284a158a67c2b0f8ed3fa9" },
+  "android": { "file": "android/F12Notes.apk", "version": "0.12.5", "sha256": "b76a4673ae69d1608255ff89c79209741425cf1fff29de6194ecaa12c018f56a" }
 }
