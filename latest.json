@@ -1,8 +1,8 @@
 {
-  "version": "0.12.6",
+  "version": "0.12.7",
   "date": "2026-11-27",
-  "notes": "Markdown-Ansicht: wird der ganze sichtbare Text eines formatierten Elements gelöscht (Überschrift, Zitat, fett, kursiv, Code, Farbe …), verschwindet auch der unsichtbare Markdown-Code",
-  "windows": { "file": "windows/F12Notes.exe", "sha256": "f3f2513fb125318400b897b300478bf7453c080c351dd4094d1ea134a489e5be" },
-  "linux": { "file": "linux/f12notes", "sha256": "ab5793fe3433207bf5bd39b5768e263a6c4495a4cbefa3ab04e989d669119ca7" },
-  "android": { "file": "android/F12Notes.apk", "version": "0.12.6", "sha256": "d12891f1c87b3d106a89443881543ef41f9336634ad124157cd9754d73e12618" }
+  "notes": "Eigene Farbe für dicke Trennlinien (===): F12 → „Farbe der dicken Trennlinien“ (leer = wie die dünnen)",
+  "windows": { "file": "windows/F12Notes.exe", "sha256": "fc4c09fda7e3421d2c27093c7d1b32a4baa4d2320bee41fab84101167ae7e3cb" },
+  "linux": { "file": "linux/f12notes", "sha256": "34fc9c798dcf8712018327b83bfabafbe446b29648dfeb915a0763ef83b2a682" },
+  "android": { "file": "android/F12Notes.apk", "version": "0.12.7", "sha256": "eef8f8140f0f4b05899b23ff47056462ba381a5f541744c07663c7a0efa0dfcb" }
 }
